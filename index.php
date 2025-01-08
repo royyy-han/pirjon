@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>pirjon wifi</h1>
+    <h1>sinyal wifi full masang neng theo</h1>
 </body>
 </html>
